@@ -1,6 +1,6 @@
 function set_timer() {
     setInterval(function() {
-      document.querySelector('.my-timer').textContent = $('#end_time').text();
+      document.querySelector('.timer').textContent = $('#end_time').text();
     }, 1000);
 };
 
