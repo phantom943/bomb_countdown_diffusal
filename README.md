@@ -1,0 +1,1 @@
+This repository contains helper functions for working with bomb diffusal algorithms.
