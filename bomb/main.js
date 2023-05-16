@@ -1,4 +1,4 @@
-function set_timer() {
+function set_bomb_timer() {
     setInterval(function() {
       document.querySelector('.timer').textContent = $('#end_time').text();
     }, 1000);
